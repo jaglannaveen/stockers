@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/stockers/static/css/main.fd6bc66f.css",
+    "main.js": "/stockers/static/js/main.87fad89a.js",
+    "static/js/787.8a36c528.chunk.js": "/stockers/static/js/787.8a36c528.chunk.js",
+    "static/media/oo.jpeg": "/stockers/static/media/oo.b93a36b36b3f74a57efb.jpeg",
+    "static/media/image.jpg": "/stockers/static/media/image.7f0a3f9d233a15142ea8.jpg",
+    "index.html": "/stockers/index.html",
+    "main.fd6bc66f.css.map": "/stockers/static/css/main.fd6bc66f.css.map",
+    "main.87fad89a.js.map": "/stockers/static/js/main.87fad89a.js.map",
+    "787.8a36c528.chunk.js.map": "/stockers/static/js/787.8a36c528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6bc66f.css",
+    "static/js/main.87fad89a.js"
+  ]
+}

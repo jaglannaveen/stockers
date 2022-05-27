@@ -1,0 +1,277 @@
+
+.main-section{
+   min-height: 90vh;
+   display: flex;
+   align-items: center;
+}
+.custom-nav{
+    border-radius: 12px;
+    background: #1b62d6;
+    margin-inline: 40px;
+  }
+  .nomidd{
+   display: flex;
+  }
+  .million{
+   margin-top: 17px;
+   /* text-align: center; */
+  }
+  .d-flex{
+    margin-inline: 11px;
+    color: white;
+   
+  }
+  .shopall{
+   margin-top: 27px
+  
+  }
+  .topretail{
+   display: flex;
+   margin-top: 27px; 
+  
+  }
+  
+ .Brand{
+     color: #ffffff;
+     font-size: x-large;
+ }
+
+ .my-head-link {
+     margin-left: 100px !important;
+ }
+ .both{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    margin: 46px;
+ }
+ .allDiv{
+   border: 1px solid red;
+   width: 450px;
+   height: 450px;
+ }
+ .col-md-10{
+   display: flex;
+   justify-content: space-evenly;
+ }
+ .millions{
+    /* width: 500px;
+    height: 400px; */
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    /* flex-direction: coloum; */
+    border: 1px solid red;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    
+ }
+ .lorem1{
+    display: flex;
+    justify-content: center; 
+    margin: 67px;   
+ }
+ .color{
+    color: #1b62d6 !important;
+ }
+ .Browse{
+   border-radius: 10px !important;
+   font-size: smaller;
+   line-height: 2.5 !important;
+   /* padding: 1rem;    */
+   padding: 14px 39px;
+   margin-inline: 10px;
+   background-color: hsl(220deg 64% 95%) !important;
+   color: black !important;
+ }
+ .arrow1{
+   margin-right: -229px;
+   display: flex;
+   /* margin-top: inherit; */
+   /* margin-left: -12px; */
+   /* flex-direction: row-reverse; */
+   /* margin-right: 41px; */
+   
+    /* flex-direction: row; */
+    /* margin-right: 0px !important; */
+    justify-content: space-around;
+    /* align-items: center; */
+ }
+ .fontsize{
+   font-weight: 400 !important;
+ }
+ .Bromar{
+   border-radius: 10px !important;
+   font-size: smaller;
+   line-height: 2.5 !important;
+   width: 206px;
+   /* padding: 1rem;    */
+   padding: 14px 39px;
+   margin-inline: 10px;
+   background-color: #0d6efd !important;
+   /* color: black !important; */
+   margin: 33px;
+   color: white;
+    
+    font-size: smaller;
+ }
+ .browsemarketplace{
+   border-radius: 10px !important;
+   font-size: smaller;
+   line-height: 2.5 !important;
+   /* padding: 1rem;    */
+   padding: 14px 39px;
+   margin-inline: 10px;
+   background-color: hsl(217deg 69% 58%) !important;
+ }
+ .arrow{
+   display: flex;
+   margin-top: inherit;
+   margin-left: -12px;
+   flex-direction: row-reverse;
+   /* margin-right: 41px; */
+   
+    flex-direction: row;
+    /* margin-right: 0px !important; */
+    justify-content: space-around;
+    align-items: center;
+ }
+ 
+ .lorem{
+
+    /* height: 250px; */
+    width: 400px;
+    /* border: 1px solid red; */
+    padding: 24px;
+    background-color: #f1fbfb;
+ }
+ .b2b{
+    border: 1px solid red;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: 296px;
+ }
+ .AllLot{
+   margin-top: 28px;
+ }
+ .image{
+    border: 1px solid red;
+    width: 500px;
+    height: 400px;
+ }
+ .col-md-8{
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   margin: 23px;
+    padding: 17px;
+ }
+ .amazonLiq{
+   margin-top: 25px;
+ }
+ .activeLots{
+   font-weight: 500;
+   font-size: large;
+ }
+ .btn-primary{
+   line-height: 2.5;
+ }
+ .box12{
+    display: flex;
+    
+ }
+ .box34{
+    display: flex;
+ }
+ .boxAll{
+   border-radius: 18px;
+   /* border: 1px solid red; */
+   width: 250px;
+   height: 250px;
+   margin: 30px;
+   padding: 29px;
+   background-color: azure;
+ }
+ 
+.button:focus {
+   outline:none !important;
+   box-shadow: none !important;
+ }
+ .searchAuction{
+   display: flex;
+   flex-flow: row;
+   
+ }
+ .searchH1{
+   font-size: 2.4rem;
+ }
+ .buttonSign:focus {
+   outline:none !important;
+   box-shadow: none !important;
+ }
+ .browsemarketplace:focus {
+   outline:none !important;
+   box-shadow: none !important;
+ }
+ .Browse:focus {
+   outline:none !important;
+   box-shadow: none !important;
+ }
+ .Browse:hover {
+   background: #93aedb !important;
+}
+ .button:focus {outline:0 !important;}
+.button{
+        border-radius: 10px !important;
+        font-size: smaller;
+        width: 200px;
+        line-height: 2.5 !important;
+        /* padding: 1rem;    */
+        padding: 14px 39px;
+        margin-inline: 10px;
+        /* line-height: 2.5; */
+        /* margin-left: 157px; */
+    }
+    .bi.bi-search{
+      color: white;
+      margin: 22px;
+    }
+.buttonSign{
+        border-radius: 10px !important;
+        font-size: smaller;
+        width: 140px;
+        line-height: 2.5 !important;
+        /* padding: 1rem;    */
+        padding: 14px 39px;
+        margin-inline: 10px;
+        /* line-height: 2.5; */
+        /* margin-left: 157px; */
+    }
+    .dots{
+      list-style: none !important; 
+      padding-left: 0;
+    }
+    .register{
+        display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 41px;
+    }
+    
+  .nav-link{
+    /* margin-inline: 1px; */
+    font-size: smaller;
+    color: #ffffff !important;
+    /* margin-left: 99px; */
+           margin: 10px;
+           
+  }
+  .App {
+    text-align: center;
+  }
+  
+  
